@@ -1,0 +1,14 @@
+C:\Users\kugao\Desktop\estudo\bin\Debug\net7.0\estudo.exe
+C:\Users\kugao\Desktop\estudo\bin\Debug\net7.0\estudo.deps.json
+C:\Users\kugao\Desktop\estudo\bin\Debug\net7.0\estudo.runtimeconfig.json
+C:\Users\kugao\Desktop\estudo\bin\Debug\net7.0\estudo.dll
+C:\Users\kugao\Desktop\estudo\bin\Debug\net7.0\estudo.pdb
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.AssemblyInfo.cs
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.dll
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\refint\estudo.dll
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.pdb
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\estudo.genruntimeconfig.cache
+C:\Users\kugao\Desktop\estudo\obj\Debug\net7.0\ref\estudo.dll
